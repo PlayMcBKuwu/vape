@@ -3,8 +3,7 @@
   
   
 # VAPE 现在为所有人打了 100% 的折扣
-    
-    <p align="center">
+  <p align="center">
     <br />
     <a href="https://github.com/PlayMcBKuwu/playmcbkuwu.github.io/blob/main/README.md"><strong>English »</strong></a>
     .
