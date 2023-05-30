@@ -3,7 +3,6 @@
   
   
 # THE VAPE IS 100% OFF NOW.  
-    <h3 align="center">VAPE</h3>
   <p align="center">
     <br />
     <a href="https://github.com/PlayMcBKuwu/playmcbkuwu.github.io/blob/main/README.md"><strong>English »</strong></a>
