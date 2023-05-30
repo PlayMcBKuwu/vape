@@ -3,6 +3,11 @@
   
   
 # THE VAPE IS 100% OFF NOW.  
+    <br />
+    <a href="https://github.com/PlayMcBKuwu/playmcbkuwu.github.io/blob/main/README.md"><strong>English »</strong></a>
+    .
+    <a href="https://github.com/PlayMcBKuwu/playmcbkuwu.github.io/blob/main/README-CN.md"><strong>简体中文 »</strong></a>
+    <br />
   
 - DOWNLOAD VAPE FOR 100% OFF AT:https://playmcbkuwu.github.io  
   
