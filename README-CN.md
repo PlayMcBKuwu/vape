@@ -10,6 +10,6 @@
     <a href="https://github.com/PlayMcBKuwu/playmcbkuwu.github.io/blob/main/README-CN.md"><strong>简体中文 »</strong></a>
     <br />
   
-- 下载 100% 折扣的 VAPE:https://playmcbkuwu.github.io  
+- 下载 100% 折扣的 VAPE（英语）:https://playmcbkuwu.github.io  
   
-- 下载所有 VAPE:https://github.com/PlayMcBKuwu/playmcbkuwu.github.io/releases
+- 下载所有 VAPE（英语）:https://github.com/PlayMcBKuwu/playmcbkuwu.github.io/releases
