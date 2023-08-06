@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PlayMcBKuwu/playmcbkuwu.github.io/main/VAPE.png" alt="VAPE" width="176" height="48" />  
+  <img src="https://ghproxy.com/https://raw.githubusercontent.com/PlayMcBKuwu/playmcbkuwu.github.io/main/VAPE.png" alt="VAPE" width="176" height="48" />
   
   
 # VAPE 现在为所有人打了 100% 的折扣
